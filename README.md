@@ -1,4 +1,4 @@
-# Double-Incomplete Multi-view clustering with Self-induced Semantic Label Diffusion
+# DISSLD
 
 This repo contains the code of the paper: DISSLD
 
